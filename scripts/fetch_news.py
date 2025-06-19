@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 
 # Create the directory if it doesn't exist
-os.makedirs("static/data", exist_ok=True)
+os.makedirs("data/", exist_ok=True)
 
 API_KEY = os.getenv("NEWS_API_KEY")
 URL = f"https://newsapi.org/v2/top-headlines?country=in&category=business&pageSize=10&apiKey={API_KEY}"
@@ -32,5 +32,5 @@ output = {
     "headlines": headlines
 }
 
-with open("static/data/news.json", "w", encoding="utf-8") as f:
+with open("data/news.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2)
