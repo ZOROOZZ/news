@@ -1,30 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>🇮🇳 Indian Market News</title>
-  <script>
-    async function loadNews() {
-      try {
-        const res = await fetch('/data/news.json');
-        const data = await res.json();
-        document.getElementById("time").innerText = new Date(data.updated).toLocaleString();
-        document.getElementById("news").innerHTML = data.headlines.map(n =>
-          `<li><b>${n.title}</b> <small>(${n.source})</small></li>`
-        ).join("");
-      } catch (e) {
-        document.getElementById("news").innerHTML = "<li>❌ Error loading news</li>";
-      }
-    }
-    window.onload = () => {
-      loadNews();
-      setInterval(loadNews, 60000); // Refresh every minute
-    };
-  </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ZORO AI News</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>📈 Live Indian Stock Market News</h1>
-  <p>Last updated: <span id="time">...</span></p>
-  <ul id="news">Loading news...</ul>
+  <header>
+    <h1>ZORO AI Market News</h1>
+  </header>
+
+  <main id="news-container"></main>
+
+  <footer>
+    <p>&copy; 2025 ZORO AI News</p>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
