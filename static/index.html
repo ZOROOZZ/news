@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>🇮🇳 Indian Market News</title>
+  <script>
+    async function loadNews() {
+      const res = await fetch('/data/news.json');
+      const data = await res.json();
+      document.getElementById("time").innerText = new Date(data.updated).toLocaleString();
+      document.getElementById("news").innerHTML = data.headlines.map(n =>
+        `<li><b>${n.title}</b> <small>(${n.source})</small></li>`
+      ).join("");
+    }
+    setInterval(loadNews, 10000);
+    window.onload = loadNews;
+  </script>
+</head>
+<body>
+  <h1>📈 Live Indian Stock Market News</h1>
+  <p>Last updated: <span id="time"></span></p>
+  <ul id="news"></ul>
+</body>
+</html>
