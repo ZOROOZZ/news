@@ -1,24 +1,30 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>🇮🇳 Indian Market News</title>
   <script>
     async function loadNews() {
-      const res = await fetch('/data/news.json');
-      const data = await res.json();
-      document.getElementById("time").innerText = new Date(data.updated).toLocaleString();
-      document.getElementById("news").innerHTML = data.headlines.map(n =>
-        `<li><b>${n.title}</b> <small>(${n.source})</small></li>`
-      ).join("");
+      try {
+        const res = await fetch('/data/news.json');
+        const data = await res.json();
+        document.getElementById("time").innerText = new Date(data.updated).toLocaleString();
+        document.getElementById("news").innerHTML = data.headlines.map(n =>
+          `<li><b>${n.title}</b> <small>(${n.source})</small></li>`
+        ).join("");
+      } catch (e) {
+        document.getElementById("news").innerHTML = "<li>❌ Error loading news</li>";
+      }
     }
-    setInterval(loadNews, 10000);
-    window.onload = loadNews;
+    window.onload = () => {
+      loadNews();
+      setInterval(loadNews, 60000); // Refresh every minute
+    };
   </script>
 </head>
 <body>
   <h1>📈 Live Indian Stock Market News</h1>
-  <p>Last updated: <span id="time"></span></p>
-  <ul id="news"></ul>
+  <p>Last updated: <span id="time">...</span></p>
+  <ul id="news">Loading news...</ul>
 </body>
 </html>
