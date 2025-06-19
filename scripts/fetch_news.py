@@ -3,6 +3,9 @@ import requests
 import json
 from datetime import datetime
 
+# Ensure the data folder exists
+os.makedirs("data", exist_ok=True)
+
 API_KEY = os.getenv("NEWS_API_KEY")
 URL = "https://newsapi.org/v2/top-headlines?country=in&category=business&pageSize=10&apiKey=" + API_KEY
 
