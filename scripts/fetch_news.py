@@ -4,13 +4,16 @@ import json
 import os
 from datetime import datetime
 
+# Create output folder
 os.makedirs("static/data", exist_ok=True)
 
+# Scrape MoneyControl business news
 url = "https://www.moneycontrol.com/news/business/"
-res = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
-
+headers = {"User-Agent": "Mozilla/5.0"}
+res = requests.get(url, headers=headers)
 soup = BeautifulSoup(res.content, "html.parser")
 
+# Extract headlines
 headlines = []
 for item in soup.select("li.clearfix > a"):
     title = item.get_text(strip=True)
@@ -21,6 +24,7 @@ for item in soup.select("li.clearfix > a"):
             "time": datetime.now().isoformat()
         })
 
+# Save the first 10
 output = {
     "updated": datetime.now().isoformat(),
     "headlines": headlines[:10]
