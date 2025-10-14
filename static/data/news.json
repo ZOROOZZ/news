@@ -1,55 +1,55 @@
 {
-  "updated": "2025-10-14T17:12:36.464521",
+  "updated": "2025-10-14T17:28:06.520521",
   "headlines": [
     {
-      "title": "Adani Ports remains steady (+0.75%) in recent trading",
+      "title": "Adani Ports remains steady (+1.20%) in recent trading",
       "source": "ZORO AI",
-      "time": "2025-10-14T17:12:35.748622"
+      "time": "2025-10-14T17:28:06.075358"
     },
     {
-      "title": "Infosys remains steady (-1.52%) in recent trading",
+      "title": "Infosys remains steady (-1.43%) in recent trading",
       "source": "ZORO AI",
-      "time": "2025-10-14T17:12:36.061604"
+      "time": "2025-10-14T17:28:06.295825"
     },
     {
       "title": "Wipro remains steady (+1.30%) in recent trading",
       "source": "ZORO AI",
-      "time": "2025-10-14T17:12:36.297974"
+      "time": "2025-10-14T17:28:06.439044"
     },
     {
-      "title": "Reliance remains steady (-2.56%) in recent trading",
+      "title": "Reliance remains steady (-1.91%) in recent trading",
       "source": "ZORO AI",
-      "time": "2025-10-14T17:12:36.464468"
-    },
-    {
-      "title": "Reliance launches new product line",
-      "source": "ZORO AI",
-      "time": "2025-10-14T17:12:36.464488"
-    },
-    {
-      "title": "Adani Ports launches new product line",
-      "source": "ZORO AI",
-      "time": "2025-10-14T17:12:36.464496"
-    },
-    {
-      "title": "Wipro announces merger deal",
-      "source": "ZORO AI",
-      "time": "2025-10-14T17:12:36.464501"
-    },
-    {
-      "title": "Tata Motors announces merger deal",
-      "source": "ZORO AI",
-      "time": "2025-10-14T17:12:36.464508"
-    },
-    {
-      "title": "Wipro launches new product line",
-      "source": "ZORO AI",
-      "time": "2025-10-14T17:12:36.464513"
+      "time": "2025-10-14T17:28:06.520463"
     },
     {
       "title": "Wipro faces regulatory pipeline delays",
       "source": "ZORO AI",
-      "time": "2025-10-14T17:12:36.464518"
+      "time": "2025-10-14T17:28:06.520488"
+    },
+    {
+      "title": "Reliance faces regulatory pipeline delays",
+      "source": "ZORO AI",
+      "time": "2025-10-14T17:28:06.520495"
+    },
+    {
+      "title": "Tata Motors launches new product line",
+      "source": "ZORO AI",
+      "time": "2025-10-14T17:28:06.520501"
+    },
+    {
+      "title": "Infosys launches new product line",
+      "source": "ZORO AI",
+      "time": "2025-10-14T17:28:06.520508"
+    },
+    {
+      "title": "Adani Ports faces regulatory pipeline delays",
+      "source": "ZORO AI",
+      "time": "2025-10-14T17:28:06.520514"
+    },
+    {
+      "title": "Adani Ports launches new product line",
+      "source": "ZORO AI",
+      "time": "2025-10-14T17:28:06.520518"
     }
   ]
 }
