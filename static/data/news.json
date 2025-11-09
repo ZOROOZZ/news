@@ -1,55 +1,55 @@
 {
-  "updated": "2025-11-09T08:00:49.748605",
+  "updated": "2025-11-09T08:30:30.470209",
   "headlines": [
     {
       "title": "Adani Ports shares soar 3.37% on strong market performance",
       "source": "ZORO AI",
-      "time": "2025-11-09T08:00:49.090261"
+      "time": "2025-11-09T08:30:29.751394"
     },
     {
       "title": "Infosys remains steady (+1.98%) in recent trading",
       "source": "ZORO AI",
-      "time": "2025-11-09T08:00:49.331145"
+      "time": "2025-11-09T08:30:29.994979"
     },
     {
       "title": "Wipro remains steady (-0.38%) in recent trading",
       "source": "ZORO AI",
-      "time": "2025-11-09T08:00:49.584899"
+      "time": "2025-11-09T08:30:30.258218"
     },
     {
       "title": "Reliance shares plunge -4.32% amid market sell\u2011off",
       "source": "ZORO AI",
-      "time": "2025-11-09T08:00:49.748544"
+      "time": "2025-11-09T08:30:30.470151"
+    },
+    {
+      "title": "Reliance faces regulatory pipeline delays",
+      "source": "ZORO AI",
+      "time": "2025-11-09T08:30:30.470173"
     },
     {
       "title": "Wipro announces merger deal",
       "source": "ZORO AI",
-      "time": "2025-11-09T08:00:49.748569"
-    },
-    {
-      "title": "Wipro launches new product line",
-      "source": "ZORO AI",
-      "time": "2025-11-09T08:00:49.748578"
-    },
-    {
-      "title": "Adani Ports faces regulatory pipeline delays",
-      "source": "ZORO AI",
-      "time": "2025-11-09T08:00:49.748584"
-    },
-    {
-      "title": "Tata Motors launches new product line",
-      "source": "ZORO AI",
-      "time": "2025-11-09T08:00:49.748592"
+      "time": "2025-11-09T08:30:30.470181"
     },
     {
       "title": "Adani Ports launches new product line",
       "source": "ZORO AI",
-      "time": "2025-11-09T08:00:49.748597"
+      "time": "2025-11-09T08:30:30.470187"
     },
     {
-      "title": "Infosys launches new product line",
+      "title": "Infosys announces merger deal",
       "source": "ZORO AI",
-      "time": "2025-11-09T08:00:49.748602"
+      "time": "2025-11-09T08:30:30.470196"
+    },
+    {
+      "title": "Adani Ports launches new product line",
+      "source": "ZORO AI",
+      "time": "2025-11-09T08:30:30.470201"
+    },
+    {
+      "title": "Tata Motors announces merger deal",
+      "source": "ZORO AI",
+      "time": "2025-11-09T08:30:30.470206"
     }
   ]
 }
