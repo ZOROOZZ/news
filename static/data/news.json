@@ -1,55 +1,55 @@
 {
-  "updated": "2025-12-08T16:33:00.447568",
+  "updated": "2025-12-08T16:55:31.578803",
   "headlines": [
     {
-      "title": "Adani Ports shares soar 3.70% on strong market performance",
+      "title": "Adani Ports shares soar 3.24% on strong market performance",
       "source": "ZORO AI",
-      "time": "2025-12-08T16:33:00.039991"
+      "time": "2025-12-08T16:55:30.999277"
     },
     {
-      "title": "Infosys remains steady (-1.38%) in recent trading",
+      "title": "Infosys remains steady (-1.41%) in recent trading",
       "source": "ZORO AI",
-      "time": "2025-12-08T16:33:00.212130"
+      "time": "2025-12-08T16:55:31.233552"
     },
     {
       "title": "Wipro remains steady (-1.23%) in recent trading",
       "source": "ZORO AI",
-      "time": "2025-12-08T16:33:00.352849"
+      "time": "2025-12-08T16:55:31.431573"
     },
     {
-      "title": "Reliance remains steady (-2.18%) in recent trading",
+      "title": "Reliance remains steady (-0.87%) in recent trading",
       "source": "ZORO AI",
-      "time": "2025-12-08T16:33:00.447532"
-    },
-    {
-      "title": "Tata Motors faces regulatory pipeline delays",
-      "source": "ZORO AI",
-      "time": "2025-12-08T16:33:00.447548"
-    },
-    {
-      "title": "Tata Motors faces regulatory pipeline delays",
-      "source": "ZORO AI",
-      "time": "2025-12-08T16:33:00.447553"
-    },
-    {
-      "title": "Reliance faces regulatory pipeline delays",
-      "source": "ZORO AI",
-      "time": "2025-12-08T16:33:00.447556"
-    },
-    {
-      "title": "Adani Ports faces regulatory pipeline delays",
-      "source": "ZORO AI",
-      "time": "2025-12-08T16:33:00.447561"
-    },
-    {
-      "title": "Wipro announces merger deal",
-      "source": "ZORO AI",
-      "time": "2025-12-08T16:33:00.447564"
+      "time": "2025-12-08T16:55:31.578768"
     },
     {
       "title": "Infosys launches new product line",
       "source": "ZORO AI",
-      "time": "2025-12-08T16:33:00.447567"
+      "time": "2025-12-08T16:55:31.578783"
+    },
+    {
+      "title": "Infosys announces merger deal",
+      "source": "ZORO AI",
+      "time": "2025-12-08T16:55:31.578788"
+    },
+    {
+      "title": "Wipro announces merger deal",
+      "source": "ZORO AI",
+      "time": "2025-12-08T16:55:31.578791"
+    },
+    {
+      "title": "Infosys faces regulatory pipeline delays",
+      "source": "ZORO AI",
+      "time": "2025-12-08T16:55:31.578796"
+    },
+    {
+      "title": "Adani Ports launches new product line",
+      "source": "ZORO AI",
+      "time": "2025-12-08T16:55:31.578799"
+    },
+    {
+      "title": "Adani Ports faces regulatory pipeline delays",
+      "source": "ZORO AI",
+      "time": "2025-12-08T16:55:31.578802"
     }
   ]
 }
