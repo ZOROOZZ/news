@@ -1,55 +1,55 @@
 {
-  "updated": "2025-12-15T14:31:34.809967",
+  "updated": "2025-12-15T14:55:03.184402",
   "headlines": [
     {
-      "title": "Infosys faces regulatory pipeline delays",
+      "title": "Reliance launches new product line",
       "source": "ZORO AI",
-      "time": "2025-12-15T14:31:34.809934"
+      "time": "2025-12-15T14:55:03.184370"
+    },
+    {
+      "title": "Adani Ports faces regulatory pipeline delays",
+      "source": "ZORO AI",
+      "time": "2025-12-15T14:55:03.184377"
     },
     {
       "title": "Wipro announces merger deal",
       "source": "ZORO AI",
-      "time": "2025-12-15T14:31:34.809942"
+      "time": "2025-12-15T14:55:03.184380"
     },
     {
-      "title": "Adani Ports announces merger deal",
+      "title": "Adani Ports faces regulatory pipeline delays",
       "source": "ZORO AI",
-      "time": "2025-12-15T14:31:34.809945"
-    },
-    {
-      "title": "Adani Ports launches new product line",
-      "source": "ZORO AI",
-      "time": "2025-12-15T14:31:34.809950"
+      "time": "2025-12-15T14:55:03.184385"
     },
     {
       "title": "Adani Ports launches new product line",
       "source": "ZORO AI",
-      "time": "2025-12-15T14:31:34.809953"
+      "time": "2025-12-15T14:55:03.184388"
     },
     {
-      "title": "Infosys announces merger deal",
+      "title": "Reliance announces merger deal",
       "source": "ZORO AI",
-      "time": "2025-12-15T14:31:34.809956"
-    },
-    {
-      "title": "Wipro launches new product line",
-      "source": "ZORO AI",
-      "time": "2025-12-15T14:31:34.809958"
-    },
-    {
-      "title": "Wipro launches new product line",
-      "source": "ZORO AI",
-      "time": "2025-12-15T14:31:34.809961"
+      "time": "2025-12-15T14:55:03.184391"
     },
     {
       "title": "Reliance faces regulatory pipeline delays",
       "source": "ZORO AI",
-      "time": "2025-12-15T14:31:34.809963"
+      "time": "2025-12-15T14:55:03.184393"
     },
     {
-      "title": "Tata Motors launches new product line",
+      "title": "Infosys announces merger deal",
       "source": "ZORO AI",
-      "time": "2025-12-15T14:31:34.809966"
+      "time": "2025-12-15T14:55:03.184396"
+    },
+    {
+      "title": "Tata Motors faces regulatory pipeline delays",
+      "source": "ZORO AI",
+      "time": "2025-12-15T14:55:03.184398"
+    },
+    {
+      "title": "Infosys launches new product line",
+      "source": "ZORO AI",
+      "time": "2025-12-15T14:55:03.184400"
     }
   ]
 }
