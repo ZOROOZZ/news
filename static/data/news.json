@@ -1,55 +1,55 @@
 {
-  "updated": "2025-12-15T19:34:54.456688",
+  "updated": "2025-12-15T19:44:46.925282",
   "headlines": [
     {
-      "title": "Tata Motors launches new product line",
+      "title": "Adani Ports launches new product line",
       "source": "ZORO AI",
-      "time": "2025-12-15T19:34:54.456656"
+      "time": "2025-12-15T19:44:46.925250"
+    },
+    {
+      "title": "Reliance announces merger deal",
+      "source": "ZORO AI",
+      "time": "2025-12-15T19:44:46.925257"
+    },
+    {
+      "title": "Reliance announces merger deal",
+      "source": "ZORO AI",
+      "time": "2025-12-15T19:44:46.925260"
     },
     {
       "title": "Infosys announces merger deal",
       "source": "ZORO AI",
-      "time": "2025-12-15T19:34:54.456662"
+      "time": "2025-12-15T19:44:46.925265"
     },
     {
-      "title": "Reliance launches new product line",
+      "title": "Reliance faces regulatory pipeline delays",
       "source": "ZORO AI",
-      "time": "2025-12-15T19:34:54.456666"
-    },
-    {
-      "title": "Reliance launches new product line",
-      "source": "ZORO AI",
-      "time": "2025-12-15T19:34:54.456671"
+      "time": "2025-12-15T19:44:46.925268"
     },
     {
       "title": "Tata Motors announces merger deal",
       "source": "ZORO AI",
-      "time": "2025-12-15T19:34:54.456674"
+      "time": "2025-12-15T19:44:46.925271"
     },
     {
       "title": "Infosys announces merger deal",
       "source": "ZORO AI",
-      "time": "2025-12-15T19:34:54.456677"
-    },
-    {
-      "title": "Infosys announces merger deal",
-      "source": "ZORO AI",
-      "time": "2025-12-15T19:34:54.456679"
-    },
-    {
-      "title": "Wipro faces regulatory pipeline delays",
-      "source": "ZORO AI",
-      "time": "2025-12-15T19:34:54.456681"
+      "time": "2025-12-15T19:44:46.925273"
     },
     {
       "title": "Infosys faces regulatory pipeline delays",
       "source": "ZORO AI",
-      "time": "2025-12-15T19:34:54.456684"
+      "time": "2025-12-15T19:44:46.925276"
     },
     {
-      "title": "Tata Motors faces regulatory pipeline delays",
+      "title": "Wipro faces regulatory pipeline delays",
       "source": "ZORO AI",
-      "time": "2025-12-15T19:34:54.456686"
+      "time": "2025-12-15T19:44:46.925278"
+    },
+    {
+      "title": "Wipro faces regulatory pipeline delays",
+      "source": "ZORO AI",
+      "time": "2025-12-15T19:44:46.925280"
     }
   ]
 }
